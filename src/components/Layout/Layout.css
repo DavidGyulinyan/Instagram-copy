@@ -1,0 +1,9 @@
+.layout__root {
+    max-height: 100vh;
+    background-color: #fafafa;
+}
+
+.layout__body {
+    max-width: 180px;
+    margin: auto;
+}
